@@ -1,0 +1,19 @@
+{
+  "name": "eth-key-generator",
+  "version": "1.0.0",
+  "description": "Generate Ethereum keys from a hex seed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.7.1",
+    "chalk": "^4.1.2"
+  },
+  "keywords": [
+    "ethereum",
+    "crypto",
+    "wallet",
+    "key-generator"
+  ]
+}
